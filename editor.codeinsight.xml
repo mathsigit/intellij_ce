@@ -1,0 +1,6 @@
+<application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="akka.routing.FromConfig" />
+    <EXCLUDED_PACKAGE NAME="scala.sys.Prop" />
+  </component>
+</application>
